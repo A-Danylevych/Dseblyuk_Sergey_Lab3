@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba3.1", "Laba3.1\Laba3.1.csproj", "{3DDC728B-2FE2-4CC6-B3BF-A53685C6784D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba3.2", "Laba3.2\Laba3.2.csproj", "{C1F24868-C002-45AA-A2C1-2938AC56F6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba3.3", "Laba3.3\Laba3.3.csproj", "{F58633DF-BD85-4FA9-8B0B-48DDC98753FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDC728B-2FE2-4CC6-B3BF-A53685C6784D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDC728B-2FE2-4CC6-B3BF-A53685C6784D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDC728B-2FE2-4CC6-B3BF-A53685C6784D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDC728B-2FE2-4CC6-B3BF-A53685C6784D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F24868-C002-45AA-A2C1-2938AC56F6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F24868-C002-45AA-A2C1-2938AC56F6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F24868-C002-45AA-A2C1-2938AC56F6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F24868-C002-45AA-A2C1-2938AC56F6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58633DF-BD85-4FA9-8B0B-48DDC98753FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58633DF-BD85-4FA9-8B0B-48DDC98753FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58633DF-BD85-4FA9-8B0B-48DDC98753FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58633DF-BD85-4FA9-8B0B-48DDC98753FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4BBD442-B6E4-41E0-AA2D-88E95F3B439D}
+	EndGlobalSection
+EndGlobal

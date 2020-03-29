@@ -1,0 +1,7 @@
+D:\C#\VisualStudio\Projects\Laba3\Laba3.3\bin\Debug\Laba3.3.exe.config
+D:\C#\VisualStudio\Projects\Laba3\Laba3.3\bin\Debug\Laba3.3.exe
+D:\C#\VisualStudio\Projects\Laba3\Laba3.3\bin\Debug\Laba3.3.pdb
+D:\C#\VisualStudio\Projects\Laba3\Laba3.3\obj\Debug\Laba3.3.csprojAssemblyReference.cache
+D:\C#\VisualStudio\Projects\Laba3\Laba3.3\obj\Debug\Laba3.3.csproj.CoreCompileInputs.cache
+D:\C#\VisualStudio\Projects\Laba3\Laba3.3\obj\Debug\Laba3.3.exe
+D:\C#\VisualStudio\Projects\Laba3\Laba3.3\obj\Debug\Laba3.3.pdb
